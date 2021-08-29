@@ -12,9 +12,6 @@
 ## Table of Contents
 - [Business needs](#businessneeds)
 - [Solution](#solution)
-- [Frontend Technologies](#frontend)
-- [Backend Technologies](#backend)
-- [Setup](#setup)
 
 <a name="businessneeds" /> 
 
@@ -29,27 +26,3 @@ The new website was designed to:
 - encourage more users to become customers through a more professional and robust interface
 - give the customer all the information they need while they are in research mode and entice them to call when they are ready to make a deal
 
-<a name="frontend" />
-
-## Frontend Technologies
-To maintain snappy loading speeds while using the React framework, I chose to use the GatsbyJS Static Site Generator. This website was my first experience with animation and I used this project as an opportunity to learn the Framer Motion framework. Lastly, this project was also one of my first experiences with TailwindCSS and I believe it made me a much more efficient developer. I enjoy how easy it is to remember the various utility classes and I extracted components when I found myself reusing classes.
-- React
-- TailwindCSS
-- Framer Motion
-- GatsbyJS
-
-<a name="backend" />
-
-## Backend Technologies
-While most of my backend experience is with Express, I decided to use this project as an opportunity to learn the new Fastify framework. I created two API endpoints that send emails to **Central Valley Engineering & Asphalt, Inc.** whenever a user submits the contact form or the request a bid form.
-- Fastify
-- Nodemailer
-
-<a name="setup" />
-
-## Setup
-To run this project, run it locally using npm
-```
-$ npm install
-$ npm start
-```
