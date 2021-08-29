@@ -9,16 +9,8 @@
 - [Cenvalley Client](https://github.com/maxmonciardini/cenvalley-client)
 - [Cenvalley Server](https://github.com/maxmonciardini/cenvalley-server)
 
-## Table of Contents
-- [Business needs](#businessneeds)
-- [Solution](#solution)
-
-<a name="businessneeds" /> 
-
 ## Business needs
 **Central Valley Engineering & Asphalt, Inc.** is a regional construction leader specializing in placing asphalt, concrete, grading, and underground utilities. Central Valley Engineering & Asphalt, Inc. operated the same website for almost two decades. With advancing technology and the rise of social media, Central Valley Engineering & Asphalt, Inc. needed to redesign its website to align with the goals of the business and the target audience. 
-
-<a name="solution" />
 
 ## Solution
 The new website was designed to:
