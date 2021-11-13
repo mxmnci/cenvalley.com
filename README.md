@@ -5,7 +5,8 @@
 <p align="center">This website was designed to improve the online presence of <b>Central Valley Engineering & Asphalt, Inc.</b> and give their online clients a more optimized and user-friendly way to get the information they need to make an informed decision about their asphalt needs.</p>
 
 ## Repositories
-*The repositories have been separated for Heroku deployment purposes*
+To access the source code for cenvalley.com, click on either of the repositories below ⬇️\
+*The repositories have been separated for Heroku deployment purposes.*
 - [Cenvalley Client](https://github.com/maxmonciardini/cenvalley-client)
 - [Cenvalley Server](https://github.com/maxmonciardini/cenvalley-server)
 
